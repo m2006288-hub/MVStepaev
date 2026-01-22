@@ -7,7 +7,7 @@ import os
 import subprocess
 
 st.set_page_config(
-    page_title="Анализ Супермаркетов",
+    page_title="Анализ Магазинов",
     page_icon="🛒",
     layout="wide"
 )
