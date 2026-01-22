@@ -2,7 +2,7 @@
 
 Interactive web application for analyzing supermarket purchase data, built with Streamlit.
 
-**Live Demo:** [https://supermarketpurchaseanalysis.streamlit.app/](https://supermarketpurchaseanalysis.streamlit.app/)
+**Live Demo:** [https://mvstepaevgit-73panuno982qr2k7mic8gx.streamlit.app/](https://mvstepaevgit-73panuno982qr2k7mic8gx.streamlit.app/)
 
 [Русская версия](README_RU.md)
 
