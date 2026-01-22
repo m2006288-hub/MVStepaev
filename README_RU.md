@@ -2,7 +2,7 @@
 
 Интерактивное веб-приложение для анализа данных о покупках в супермаркете, созданное с помощью Streamlit.
 
-**Демо:** [https://mvstepaevgit-73panuno982qr2k7mic8gx.streamlit.app/](https://mvstepaevgit-73panuno982qr2k7mic8gx.streamlit.app/)
+**Демо:** [https://magazinemarket.streamlit.app/](https://magazinemarket.streamlit.app/)
 
 [English version](README.md)
 
